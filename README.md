@@ -1,1 +1,1 @@
-# nestjs-vitals
+# nestjs-vitalsigns
