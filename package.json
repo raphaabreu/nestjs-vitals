@@ -1,6 +1,6 @@
 {
   "name": "@raphaabreu/nestjs-vitalsigns",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "vitalsigns module for NestJS",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -27,11 +27,11 @@
   },
   "homepage": "https://github.com/raphaabreu/nestjs-vitalsigns#readme",
   "dependencies": {
-    "@types/vitalsigns": "^0.4.4",
-    "vitalsigns": "^0.4.3"
+    "@types/vitalsigns": ">=0.4.4",
+    "vitalsigns": ">=0.4.3"
   },
   "peerDependencies": {
-    "@nestjs/common": "^8.0.1"
+    "@nestjs/common": ">=8.0.1"
   },
   "devDependencies": {
     "ioredis": "^4.28.0",
